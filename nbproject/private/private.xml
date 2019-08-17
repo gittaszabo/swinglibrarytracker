@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/src/gui/Home.java</file>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/src/gui/BookDialog.java</file>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/src/model/Member.java</file>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/src/gui/MemberDataDialog.java</file>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/src/model/IModel.java</file>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/nbproject/build-impl.xml</file>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/src/comparators/DueDateComparator.java</file>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/src/gui/StatusDialog.java</file>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/src/gui/LoanDialog.java</file>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/src/gui/MemberDialog.java</file>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/src/gui/RenewDialog.java</file>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/src/model/Book.java</file>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/src/gui/ConnectionDialog.java</file>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/src/model/DBmodel.java</file>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/src/comparators/MemberIdComparator.java</file>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/src/comparators/AuthorComparator.java</file>
+            <file>file:/Users/gittaszabo/NetBeansProjects/SwingLibraryTracker/src/gui/BookDataDialog.java</file>
+        </group>
+    </open-files>
+</project-private>
